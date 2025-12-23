@@ -1,0 +1,15 @@
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\bin\Debug\net9.0\TechNotes.Application.deps.json
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\bin\Debug\net9.0\TechNotes.Application.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\bin\Debug\net9.0\TechNotes.Application.pdb
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\bin\Debug\net9.0\TechNotes.Domain.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\bin\Debug\net9.0\TechNotes.Domain.pdb
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.csproj.AssemblyReference.cache
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.AssemblyInfoInputs.cache
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.AssemblyInfo.cs
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.csproj.CoreCompileInputs.cache
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNote.697A0D8E.Up2Date
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\refint\TechNotes.Application.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\TechNotes.Application.pdb
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Application\obj\Debug\net9.0\ref\TechNotes.Application.dll

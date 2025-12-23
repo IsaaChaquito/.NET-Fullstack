@@ -1,0 +1,11 @@
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\bin\Debug\net9.0\TechNotes.Domain.deps.json
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\bin\Debug\net9.0\TechNotes.Domain.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\bin\Debug\net9.0\TechNotes.Domain.pdb
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.AssemblyInfoInputs.cache
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.AssemblyInfo.cs
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\refint\TechNotes.Domain.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.pdb
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\ref\TechNotes.Domain.dll

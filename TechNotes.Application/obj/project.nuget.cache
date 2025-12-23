@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnE1MxF9Un8=",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Framework projects\\.NET\\Courses\\.NET + Blazor - DevTalles\\Fullstack\\TechNotes.Application\\TechNotes.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\exess\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
