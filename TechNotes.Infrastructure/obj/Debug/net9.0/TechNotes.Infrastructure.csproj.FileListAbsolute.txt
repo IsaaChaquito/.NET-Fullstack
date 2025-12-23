@@ -17,3 +17,4 @@ D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechN
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Infrastructure\obj\Debug\net9.0\ref\TechNotes.Infrastructure.dll
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Infrastructure\bin\Debug\net9.0\TechNotes.Infrastructure.runtimeconfig.json
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Infrastructure\obj\Debug\net9.0\TechNotes.Infrastructure.genruntimeconfig.cache
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Infrastructure\obj\Debug\net9.0\TechNotes.Infrastructure.sourcelink.json

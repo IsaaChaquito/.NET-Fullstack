@@ -9,3 +9,4 @@ D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechN
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\refint\TechNotes.Domain.dll
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.pdb
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\ref\TechNotes.Domain.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes.Domain\obj\Debug\net9.0\TechNotes.Domain.sourcelink.json
