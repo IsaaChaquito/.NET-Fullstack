@@ -16,17 +16,20 @@ public class CreateNoteCommandHandler : IRequestHandler<CreateNoteCommand, NoteR
 
   public async Task<NoteResponse> Handle(CreateNoteCommand request, CancellationToken cancellationToken)
   {
-    var note = new Note
-    {
-      Title = request.Title,
-      Content = request.Content,
-      PublishedAt = request.PublishedAt,
-      IsPublished = request.IsPublished
-    };
+    // var note = new Note
+    // {
+    //   Title = request.Title,
+    //   Content = request.Content,
+    //   PublishedAt = request.PublishedAt,
+    //   IsPublished = request.IsPublished
+    // };
+
+    //Como estamos usando mapster podemos ahorrarnos lo de arriba y usar el adapt.
+    var note = request.Adapt<Note>();
 
     var noteResponse = await _noteRepository.CreateNoteAsync(note);
 
-    return note.Adapt<NoteResponse>();
+    return noteResponse.Adapt<NoteResponse>();
   }
 }
 
