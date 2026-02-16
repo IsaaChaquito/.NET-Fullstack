@@ -16,7 +16,7 @@ public class GetNoteByIdQueryHandler : IRequestHandler<GetNoteByIdQuery, NoteRes
 
   public async Task<NoteResponse?> Handle(GetNoteByIdQuery request, CancellationToken cancellationToken)
   {
-    var note = _noteRepository.GetNoteByIdAsync(request.Id);
+    var note = await _noteRepository.GetNoteByIdAsync(request.Id);
     if(note is null) return null;
 
     return note.Adapt<NoteResponse>();

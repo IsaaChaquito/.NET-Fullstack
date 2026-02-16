@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Notes\Createnote\" />
+    <Folder Include="Notes\DeleteNote\" />
     <Folder Include="Notes\GetNoteById\" />
     <Folder Include="Notes\GetNotes\" />
     <Folder Include="Notes\UpdateNote\" />
