@@ -1,10 +1,7 @@
-using System;
-using MediatR;
-using TechNotes.Domain.Notes;
 
 namespace TechNotes.Application.Notes.DeleteNote;
 
-public class DeleteNoteCommandHandler : IRequestHandler<DeleteNoteCommand, bool>
+public class DeleteNoteCommandHandler : ICommandHandler<DeleteNoteCommand>
 {
   private readonly INoteRepository _noteRepository;
 
@@ -13,9 +10,11 @@ public class DeleteNoteCommandHandler : IRequestHandler<DeleteNoteCommand, bool>
     _noteRepository = noteRepository;
   }
 
-  public async Task<bool> Handle(DeleteNoteCommand request, CancellationToken cancellationToken)
+  public async Task<Result> Handle(DeleteNoteCommand request, CancellationToken cancellationToken)
   {
-    return await _noteRepository.DeleteNoteAsync(request.Id);
+    var deleted = await _noteRepository.DeleteNoteAsync(request.Id);
+
+    return deleted ? Result.Ok() : Result.Fail("No se pudo eliminar la nota.");
   }
 
 }

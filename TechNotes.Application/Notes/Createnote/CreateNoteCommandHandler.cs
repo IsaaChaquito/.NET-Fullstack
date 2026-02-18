@@ -1,11 +1,7 @@
-using System;
-using Mapster;
-using MediatR;
-using TechNotes.Domain.Notes;
 
 namespace TechNotes.Application.Notes.Createnote;
 
-public class CreateNoteCommandHandler : IRequestHandler<CreateNoteCommand, NoteResponse>
+public class CreateNoteCommandHandler : ICommandHandler<CreateNoteCommand, NoteResponse>
 {
   private readonly INoteRepository _noteRepository;
 
@@ -14,7 +10,7 @@ public class CreateNoteCommandHandler : IRequestHandler<CreateNoteCommand, NoteR
     _noteRepository = noteRepository;
   }
 
-  public async Task<NoteResponse> Handle(CreateNoteCommand request, CancellationToken cancellationToken)
+  public async Task<Result<NoteResponse>> Handle(CreateNoteCommand request, CancellationToken cancellationToken)
   {
     // var note = new Note
     // {

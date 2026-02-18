@@ -17,7 +17,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Notes\Createnote\" />
+    <Folder Include="Abstractions\" />
+    <Folder Include="Abstractions\RequestHandling\" />
+    <Folder Include="Notes\CreateNote\" />
     <Folder Include="Notes\DeleteNote\" />
     <Folder Include="Notes\GetNoteById\" />
     <Folder Include="Notes\GetNotes\" />

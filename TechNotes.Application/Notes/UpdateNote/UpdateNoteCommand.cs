@@ -1,9 +1,7 @@
 
-using MediatR;
-
 namespace TechNotes.Application.Notes.UpdateNote;
 
-public class UpdateNoteCommand : IRequest<NoteResponse?>
+public class UpdateNoteCommand : ICommand<NoteResponse?>
 {
   public int Id { get; set; }
   public required string Title { get; set; }
