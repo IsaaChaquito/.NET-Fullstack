@@ -9,7 +9,6 @@ export default {
     "./**/*.tsx",
     "./**/*.cs"
   ],
-  important: "#app",
   theme: {
     extend: {},
   },
