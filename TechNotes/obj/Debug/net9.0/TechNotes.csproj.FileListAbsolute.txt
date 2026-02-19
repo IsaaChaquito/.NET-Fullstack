@@ -139,3 +139,6 @@ D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechN
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes\obj\Debug\net9.0\TechNotes.pdb
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes\obj\Debug\net9.0\TechNotes.genruntimeconfig.cache
 D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes\obj\Debug\net9.0\ref\TechNotes.dll
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes\bin\Debug\net9.0\package-lock.json
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes\bin\Debug\net9.0\package.json
+D:\Dev\Framework projects\.NET\Courses\.NET + Blazor - DevTalles\Fullstack\TechNotes\obj\Debug\net9.0\compressed\fxsfurt26p-x992n6zmjw.gz

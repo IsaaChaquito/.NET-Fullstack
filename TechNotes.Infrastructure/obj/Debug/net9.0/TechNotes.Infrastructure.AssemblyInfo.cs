@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechNotes.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13fd0aefd7aab652a414b0af1597c8163bd3bbec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889ae8db717a1416caf585276a3f3cbac70e1bba")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechNotes.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechNotes.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
